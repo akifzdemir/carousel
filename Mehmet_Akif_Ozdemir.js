@@ -155,6 +155,7 @@
         align-items: stretch;      
         overflow-x: auto;
         scroll-snap-type: x mandatory;
+        padding: 20px 0px;
       }
 
       .carousel-container {
